@@ -135,9 +135,4 @@ pip install -r requirements.txt
 
 MIT License © 2025 [Adarsh Gogate](https://github.com/adarshgogate)
 
-```
 
----
-
-👉 Do you also want me to design a **simple architecture diagram (client ↔ server with encryption flow)** that you can add as an image inside the README?
-```
